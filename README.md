@@ -4,6 +4,8 @@
 
 SkimLit is a Recurrent Neural Network (RNN) built with TensorFlow that aims to enhance the readability of medical paper abstracts. By automatically classifying sentences within an abstract into their respective roles (e.g., background, objective, methods, results, conclusions), SkimLit makes scientific literature more accessible and easier to skim.
 
+The purpose of this proyect is to learn how to work with NLP as well as machine learning best practices.
+
 ## Features
 
 - Utilizes state-of-the-art NLP techniques to process medical abstracts
